@@ -1,6 +1,6 @@
 <h1>Hi, my name is Badr.</h1>
 
-<h3> Passionate backend developer living in Ghana</h3>
+<h3>A passionate web developer living in Ghana</h3>
 
 
 
